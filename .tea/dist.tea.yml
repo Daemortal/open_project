@@ -1,0 +1,9 @@
+name: open_project
+description: CLI weather tool with OpenWeatherMap integration
+license: MIT
+version: 0.1.0
+dependencies:
+  - python>=3.8
+  - requests>=2.26
+authors:
+  - Daemortal <daemortal@gmail.com>

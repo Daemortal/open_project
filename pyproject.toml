@@ -1,0 +1,14 @@
+[project]
+name = open_project
+version = 0.1.0
+description = CLI weather tool
+authors = [{name = Daemortal, email = daemortal@gmail.com}]
+license = {text = MIT}
+requires-python = =3.8
+dependencies = [
+    requests=2.26,
+    click=8.0
+]
+
+[project.scripts]
+open_project = open_project.climain
