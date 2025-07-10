@@ -1,7 +1,7 @@
 """
 open_project Package
 
-CLI tool for weather information powered by OpenWeatherMap API
+CLI tool for weather information powered by OpenWeatherMap API (test)
 """
 
 __version__ = "0.1.0"
