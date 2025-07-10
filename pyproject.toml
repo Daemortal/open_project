@@ -11,4 +11,4 @@ dependencies = [
 ]
 
 [project.scripts]
-open_project = open_project.clim
+open_project = open_project.climain
